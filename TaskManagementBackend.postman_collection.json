@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "bfaa8ec5-51f6-42f1-b5f6-7377c6127488",
+		"name": "TaskManagementBackend",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46659111",
+		"_collection_link": "https://kunalchakraborty.postman.co/workspace/VibeChat~faef06d5-2bb2-4846-9490-18ba3de94b91/collection/46659111-bfaa8ec5-51f6-42f1-b5f6-7377c6127488?action=share&source=collection_link&creator=46659111"
+	},
+	"item": [
+		{
+			"name": "registerUser",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "loginUser",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "logoutuser",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "createNewtask",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getAllTasks",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "updatedSpecificTask",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "deleteTask",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
