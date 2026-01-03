@@ -65,6 +65,7 @@ task-manager-backend/
 │── package.json
 │── README.md
 
+
 🗄️ Database Schema
 Task Schema
 import mongoose from "mongoose";
@@ -105,7 +106,9 @@ Auth Routes
 Method	Endpoint	Description
 POST	/api/auth/register	Register new user
 POST	/api/auth/login	Login user
+
 Task Routes (Protected)
+
 Method	Endpoint	Description
 POST	/api/tasks	Create a new task
 GET	/api/tasks	Get all user tasks
@@ -150,5 +153,6 @@ npm run dev
 
 
 Server will run on:
-
 http://localhost:4000
+
+Postman collection link: https://kunalchakraborty.postman.co/workspace/VibeChat~faef06d5-2bb2-4846-9490-18ba3de94b91/collection/46659111-bfaa8ec5-51f6-42f1-b5f6-7377c6127488?action=share&creator=46659111
